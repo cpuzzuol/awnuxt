@@ -102,6 +102,16 @@ export default {
           to: '/'
         },
         {
+          icon: 'mdi-apps',
+          title: 'Login',
+          to: 'login'
+        },
+        {
+          icon: 'mdi-apps',
+          title: 'Admin',
+          to: 'admin'
+        },
+        {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire'
